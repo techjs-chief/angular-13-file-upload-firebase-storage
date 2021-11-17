@@ -5,15 +5,17 @@ I will show you how to make Angular 13 Firebase Storage: File Upload/Display/Del
 ![angular-13-firebase-storage-file-upload-example](angular-13-firebase-storage-file-upload-example.png)
 
 More Practice:
-> [Angular 12 Firestore CRUD example with AngularFireStore](https://github.com/JS-IT/angular-12-firestore-crud/)
+> [Angular CRUD Application example with Web API](https://github.com/JS-IT/angular-13-crud-example/)
 
 > [Angular 12 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-12-firebase-crud/)
 
 > [Angular 13 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-13-firebase-crud/)
 
-> [Angular 13 Firebase Storage: File Upload/Display/Delete example](https://github.com/JS-IT/angular-13-file-upload-firebase-storage/)
+> [Angular 12 Firestore CRUD example with AngularFireStore](https://github.com/JS-IT/angular-12-firestore-crud/)
 
-> [Angular CRUD Application example with Web API](https://github.com/JS-IT/angular-13-crud-example/)
+> [Angular 13 Firestore CRUD example with AngularFireStore](https://github.com/JS-IT/angular-13-firestore-crud/)
+
+> [Angular 13 Firebase Storage: File Upload/Display/Delete example](https://github.com/JS-IT/angular-13-file-upload-firebase-storage/)
 
 > [Angular Form Validation example (Reactive Forms)](https://github.com/JS-IT/angular-12-form-validation/)
 
